@@ -1,0 +1,7 @@
+{
+  "title": "Vi Microsystems | Engineering Laboratory Equipment & Technology",
+  "description": "Vi Microsystems designs and manufactures technical education laboratory equipment, electronics, automation, power, and engineering technology systems.",
+  "language": "en",
+  "robots": { "index": true },
+  "accessibility": { "addBypassLinks": true }
+}
